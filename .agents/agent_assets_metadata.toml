@@ -1,0 +1,80 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "N2w2Aee60sqCL4KA_uYpv"
+uri = "file://src/assets/model/base_front.png"
+type = "image"
+title = "Base female model"
+
+[[generated]]
+id = "8_HmkQAq4Gyo-hL_Dl3zB"
+uri = "file://src/assets/garments/silk_corset.png"
+type = "image"
+title = "Silk corset top"
+
+[[generated]]
+id = "iQavC9Cdbwk0JC8B9xvEd"
+uri = "file://src/assets/garments/cropped_blazer.png"
+type = "image"
+title = "Cropped blazer"
+
+[[generated]]
+id = "ya6vrnLPQLSDdUCnydFOG"
+uri = "file://src/assets/garments/mini_skirt.png"
+type = "image"
+title = "Mini skirt"
+
+[[generated]]
+id = "cFuacdS78JZNVg3S43gfn"
+uri = "file://src/assets/garments/maxi_skirt.png"
+type = "image"
+title = "Maxi skirt"
+
+[[generated]]
+id = "IiftwTkwHZZ0r9zGGWK5f"
+uri = "file://src/assets/garments/tailored_trouser.png"
+type = "image"
+title = "Tailored trouser"
+
+[[generated]]
+id = "U2UyoPfqhjD0ZoARBA7PZ"
+uri = "file://src/assets/garments/slip_gown.png"
+type = "image"
+title = "Slip gown"
+
+[[generated]]
+id = "CbhDUjZmnNwRDoWPJRhHH"
+uri = "file://src/assets/garments/corset_gown.png"
+type = "image"
+title = "Corset gown"
+
+[[generated]]
+id = "fxBJWwbo1xKFkOh7kqHEy"
+uri = "file://src/assets/garments/long_wool_coat.png"
+type = "image"
+title = "Long wool coat"
+
+[[generated]]
+id = "XV4LmuaIBioq-h16A9r28"
+uri = "file://src/assets/garments/bralette.png"
+type = "image"
+title = "Black bralette"
+
+[[generated]]
+id = "v-VIsQAGRNXHrXAPXSsix"
+uri = "file://artifacts/clairvoyant/public/assets/editorial/hero.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "STPsv_nyxarfdoA9qdQtZ"
+uri = "file://artifacts/clairvoyant/public/assets/editorial/lookbook1.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "txaJRace8knlH1kSsX2Sj"
+uri = "file://artifacts/clairvoyant/public/assets/editorial/lookbook2.png"
+type = "image"
+title = "generated_image"
