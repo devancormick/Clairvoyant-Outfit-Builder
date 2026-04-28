@@ -21,7 +21,7 @@ export default function About() {
             We do not believe in trends. We believe in the slow aggregation of an identity. The clothes we make are architectures—sculpted wool, rigid corsetry, fluid silks—designed to hold both the weight of memory and the lightness of becoming.
           </p>
           <p>
-            Operating out of our Paris atelier, we approach fashion not as consumption, but as composition. To get dressed is a declarative act. It is the ritual of deciding who will walk out the door.
+            Operating out of our Los Angeles studio, we approach fashion not as consumption, but as composition. To get dressed is a declarative act. It is the ritual of deciding who will walk out the door.
           </p>
           <p className="text-rouge italic pt-8">
             "The future version of you already exists. Let her get dressed."
@@ -30,9 +30,9 @@ export default function About() {
 
         <div className="mt-32 pt-16 border-t border-smoke/20 grid grid-cols-1 md:grid-cols-2 gap-12">
           <div>
-            <h3 className="text-xs uppercase tracking-[0.15em] text-smoke/60 mb-4">The Atelier</h3>
+            <h3 className="text-xs uppercase tracking-[0.15em] text-smoke/60 mb-4">The Studio</h3>
             <p className="text-sm leading-relaxed">
-              Every piece is designed in-house, prioritizing structural integrity and fabric quality. We source heavy wools from heritage mills in Italy and silks from Lyon, ensuring the garments outlast the season.
+              Every piece is designed in-house in Los Angeles, prioritizing structural integrity and fabric quality. We source heavy wools from heritage mills in Italy and silks from Japan, ensuring the garments outlast the season.
             </p>
           </div>
           <div>
