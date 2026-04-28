@@ -15,19 +15,23 @@ export function Footer() {
           <h4 className="uppercase tracking-[0.15em] text-xs text-ivory">Explore</h4>
           <Link href="/builder" className="hover:text-ivory transition-colors w-fit">The Builder</Link>
           <Link href="/shop" className="hover:text-ivory transition-colors w-fit">The Edit</Link>
+          <Link href="/occasions" className="hover:text-ivory transition-colors w-fit">Occasions</Link>
           <Link href="/lookbook" className="hover:text-ivory transition-colors w-fit">SS26 Lookbook</Link>
           <Link href="/about" className="hover:text-ivory transition-colors w-fit">Maison</Link>
         </div>
 
         <div className="flex flex-col gap-4">
           <h4 className="uppercase tracking-[0.15em] text-xs text-ivory">Atelier</h4>
-          <p className="opacity-80">142 Rue du Cherche-Midi<br />75006 Paris, France</p>
-          <a href="mailto:atelier@clairvoyant.com" className="hover:text-ivory transition-colors w-fit underline underline-offset-4 decoration-petal/30 hover:decoration-ivory">atelier@clairvoyant.com</a>
+          <p className="opacity-80">8560 Sunset Blvd<br />West Hollywood, CA 90069</p>
+          <a href="mailto:studio@clairvoyant.com" className="hover:text-ivory transition-colors w-fit underline underline-offset-4 decoration-petal/30 hover:decoration-ivory">studio@clairvoyant.com</a>
         </div>
       </div>
       <div className="max-w-7xl mx-auto mt-16 pt-8 border-t border-petal/10 text-xs opacity-60 flex justify-between uppercase tracking-wider">
-        <span>© {new Date().getFullYear()} Clairvoyant Paris</span>
-        <span>Terms / Privacy</span>
+        <span>© {new Date().getFullYear()} Clairvoyant Los Angeles</span>
+        <span className="flex gap-6">
+          <span>Terms / Privacy</span>
+          <Link href="/admin" className="opacity-40 hover:opacity-70 transition-opacity">Admin</Link>
+        </span>
       </div>
     </footer>
   );

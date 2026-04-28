@@ -10,6 +10,8 @@ import Builder from "@/pages/builder";
 import Shop from "@/pages/shop";
 import Lookbook from "@/pages/lookbook";
 import About from "@/pages/about";
+import Occasions from "@/pages/occasions";
+import Admin from "@/pages/admin";
 import NotFound from "@/pages/not-found";
 
 const queryClient = new QueryClient();
@@ -24,6 +26,8 @@ function Router() {
           <Route path="/builder" component={Builder} />
           <Route path="/shop" component={Shop} />
           <Route path="/lookbook" component={Lookbook} />
+          <Route path="/occasions" component={Occasions} />
+          <Route path="/admin" component={Admin} />
           <Route path="/about" component={About} />
           <Route component={NotFound} />
         </Switch>
